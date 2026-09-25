@@ -18,7 +18,6 @@ If you are reading the paperback version of the book, you can scan the QR codes 
 *Note: Badges will be added here as the chapters are published.*
 
 * **Chapter 1: The Shower Dilemma**  
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YourName/control-systems-simulations/blob/main/Chapter_01.ipynb)  
   *Topics: Sensor delay, feedback loops, and oscillations.*
 
 * **Chapter 2: The Balancing Broom** *(Coming Soon)*  
