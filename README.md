@@ -1,6 +1,6 @@
-# 🤖 Feedback, Loops & Learning: Interactive Labs
+# 🤖 AutoBOTS
 
-Welcome to the official code repository for the book **Feedback, Loops & Learning: A Kid's Guide to Control Systems and Intelligence**. 
+Welcome to the official code repository for the book **AutoBOTS: A Kid's Guide to Control Systems and Intelligence**. 
 
 This repository contains all the interactive Python simulations used in the book. You don't need to install *anything* on your computer to run these—they all run instantly in your web browser using Google Colab!
 
